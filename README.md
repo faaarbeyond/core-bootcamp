@@ -55,6 +55,11 @@ Here are some VS Code Extensions that could help you have a better development e
 For change request, please clone and submit pull-request. Or e-mail at mark@theblokc.com
 
 ## Transaction Hash
+    day 1 contractAddress 
     0x4dFD808E2c104751011e5F4802Ed92D2B024dCa5
-
+    
+    day 2 contractAddress (hardhat)
     0xd5BD7acFA224Dd1dDD50633F85C7b6d0fDfed0b0
+
+    token Law(L)
+    0x870D151fF1E142112A0298fE4ab5c9AEEF4eA0fe

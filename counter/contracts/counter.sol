@@ -12,7 +12,7 @@ contract Counter {
     function increment() public {
         counter ++;
     }
-    function decrenent() public {
+    function decrement() public {
         counter --;
     }
 
