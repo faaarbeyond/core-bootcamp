@@ -61,5 +61,11 @@ For change request, please clone and submit pull-request. Or e-mail at mark@theb
     day 2 contractAddress (hardhat)
     0xd5BD7acFA224Dd1dDD50633F85C7b6d0fDfed0b0
 
-    token Law(L)
+    token Law(L) ERC20
     0x870D151fF1E142112A0298fE4ab5c9AEEF4eA0fe
+    
+    ERC721
+    0x7864590A8B116D4A935A552c95B368a7BDde77da
+
+    submit code
+    0x45db1839208e78cd9c8c4a68cea2c815323e1656d2e5bb3d6f2963852f2ebeb4
